@@ -1,5 +1,9 @@
 # 💫 About Me:
-Seeking a software engineering position where I can apply my analytical skills and technical knowledge to solve realworld problems, contribute to impactful projects, and gain valuable industry experience.<br>
+🎓 Aspiring Java Full Stack Developer
+
+Strong foundation in Java, Spring Boot, React, and MySQL.
+Built multiple academic and personal projects.
+Looking for opportunities to grow and contribute.<br>
 
 
 ## 🌐 Socials:
