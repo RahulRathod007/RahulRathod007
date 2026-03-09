@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🎓 Aspiring Java Full Stack Developer
 
 Strong foundation in Java, Spring Boot, React, and MySQL.
