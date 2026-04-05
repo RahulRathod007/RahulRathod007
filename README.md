@@ -1,23 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e3a5f,100:0ea5e9&height=280&section=header&text=Rahul%20Rathod&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=67&descSize=22&descColor=94d2ff&stroke=0ea5e9&strokeWidth=2" />
+  <!-- Eye-Catching Wave Header -->
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0f172a,60:1e3a5f,100:0ea5e9&height=340&section=header&text=Rahul%20Rathod&fontSize=85&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=67&descSize=26&descColor=94d2ff&stroke=0ea5e9&strokeWidth=3" 
+       alt="Rahul Rathod Header" />
 
-<br/>
+  <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Apps+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;React+%7C+REST+APIs+%7C+JWT+Auth+%E2%9A%9B%EF%B8%8F;System+Design+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Code.+Learn.+Build.+Repeat.+%F0%9F%92%A1" alt="Typing SVG" />
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Building+Scalable+Full+Stack+Apps+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;React+%7C+REST+APIs+%7C+JWT+Auth+%E2%9A%9B%EF%B8%8F;System+Design+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Code.+Learn.+Build.+Repeat.+%F0%9F%92%A1" 
+       alt="Typing SVG" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://linkedin.com/in/rahul-rathod1217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rathodrahul3966@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/RahulRathod007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/_rathod.rahul_1217_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/rahul-rathod1217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rathodrahul3966@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/RahulRathod007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/_rathod.rahul_1217_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/RahulRathod007?style=for-the-badge&color=0ea5e9&labelColor=0d1117&logo=github&label=Followers"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Available-22c55e?style=for-the-badge"/>
+  <!-- Profile Stats -->
+  <img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/RahulRathod007?style=for-the-badge&color=0ea5e9&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Available-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Work"/>
 
 </div>
 
@@ -25,28 +32,26 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
 
 ```java
 @Developer
 public class RahulRathod {
-
-  final String name     = "Rahul Shankar Rathod";
-  final String role     = "Java Full Stack Developer";
-  final String degree   = "B.Tech – Computer Science";
+  final String name = "Rahul Shankar Rathod";
+  final String role = "Java Full Stack Developer";
+  final String degree = "B.Tech – Computer Science";
   final String location = "Pune, Maharashtra 🇮🇳";
-
+  
   String[] currentlyLearning = {
     "Microservices Architecture",
     "Advanced Spring Boot",
     "System Design"
   };
-
-  boolean openToWork  = true; // ← Hire me!
-  String  motto       = "Code. Learn. Build. Repeat. 🚀";
+  
+  boolean openToWork = true; // ← Hire me!
+  String motto = "Code. Learn. Build. Repeat. 🚀";
 }
 ```
-
 - 🎓 **B.Tech** Computer Science Graduate
 - 🔭 Building **HMS**, **Job Tracker**, **Movie Fusion**
 - 🌱 Mastering **Microservices & System Design**
