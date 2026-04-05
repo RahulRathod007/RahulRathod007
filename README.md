@@ -15,8 +15,6 @@
 <!-- Animated Badges -->
 <img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=👁%20Profile+Views&color=b91d73&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/RahulRathod007?label=🤝+Followers&style=for-the-badge&color=f953c6&labelColor=1a0033" alt="followers"/>
-&nbsp;
 <img src="https://img.shields.io/badge/💼_Open_To-Work-f953c6?style=for-the-badge&labelColor=1a0033" alt="open to work"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍_Location-Pune%2C_India-b91d73?style=for-the-badge&labelColor=1a0033" alt="location"/>
