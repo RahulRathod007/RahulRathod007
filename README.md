@@ -182,29 +182,14 @@ public class Rahul extends FullStackDeveloper {
 <!-- ============================================================ -->
 <!--                  GITHUB ANALYTICS                           -->
 <!-- ============================================================ -->
-
+ 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=RahulRathod007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0017&title_color=f953c6&icon_color=b91d73&text_color=ffffff&ring_color=f953c6"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod007&layout=compact&theme=radical&hide_border=true&bg_color=0d0017&title_color=f953c6&text_color=ffffff"/>
-
+ 
+<img src="https://streak-stats.demolab.com?user=RahulRathod007&theme=tokyonight&hide_border=false&border=0ea5e9&background=0c1a2e&stroke=0ea5e9&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=7dd3fc" alt="GitHub Streak" width="70%"/>
+ 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RahulRathod007&theme=radical&hide_border=true&background=0d0017&stroke=f953c6&ring=b91d73&fire=f953c6&currStreakLabel=f953c6&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" width="65%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRathod007&bg_color=0d0017&color=f953c6&line=b91d73&point=ffffff&area=true&area_color=b91d73&hide_border=true&title_color=f953c6" width="100%" alt="Activity Graph"/>
-
-</div>
-
 ---
 
 <!-- ============================================================ -->
