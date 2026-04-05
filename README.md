@@ -279,4 +279,4 @@ public class Rahul extends FullStackDeveloper {
 <!--                   BOTTOM WAVE FOOTER                        -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91d73,50:f953c6,100:b91d73&height=200&section=footer&text=Thanks%20For%20Visiting!%20👋&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=⭐%20Drop%20a%20star%20if%20you%20liked%20my%20profile!%20⭐&descAlignY=78&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,90:2563eb,100:020617&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=f8fafc&fontAlignY=55&desc=⭐%20Drop%20a%20star%20if%20you%20liked%20my%20profile!%20⭐&descAlignY=78&descSize=20&animation=fadeIn" width="100%"/>
