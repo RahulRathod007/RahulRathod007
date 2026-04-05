@@ -4,9 +4,7 @@
 <div align="center">
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,40:0ea5e9,70:38bdf8,100:0369a1&height=155&section=header&text=Rahul%20Rathod&fontSize=50&fontColor=ffffff&fontAlignY=52&desc=Java%20Full%20Stack%20Developer&descSize=22&descAlignY=76&animation=fadeIn&fontAlign=50" width="100%"/>
- 
-<br/><br/>
- 
+  
 <!-- Animated Badges -->
 <img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="views"/>
 &nbsp;
