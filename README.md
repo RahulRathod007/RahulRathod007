@@ -25,12 +25,12 @@
 
 ## 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,swagger,bruno,youtrack" />
 </p>
 
 ---
 
-## 🚀 Projects (Highlight your best work)
+## 🚀 Projects
 🔹 **HMS (Spring Boot + JPA + JWT + React)**  
 🔹 **JOb Tracker (Spring Boot + JPA + JWT + React)**  
 🔹 **Movie Fusion (Spring Boot + React)** 
