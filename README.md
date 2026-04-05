@@ -183,7 +183,6 @@ public class Rahul extends FullStackDeveloper {
 <img src="https://streak-stats.demolab.com?user=RahulRathod007&theme=tokyonight&hide_border=false&border=0ea5e9&background=0c1a2e&stroke=0ea5e9&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=7dd3fc" alt="GitHub Streak" width="70%"/>
  
 </div>
----
 
 <!-- ============================================================ -->
 <!--                 LEARNING ROADMAP                            -->
