@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,40:0ea5e9,70:38bdf8,100:0369a1&height=155&section=header&text=Rahul%20Rathod&fontSize=50&fontColor=ffffff&fontAlignY=52&desc=Java%20Full%20Stack%20Developer&descSize=19&descAlignY=76&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,40:0ea5e9,70:38bdf8,100:0369a1&height=155&section=header&text=Rahul%20Rathod&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=Java%20Full%20Stack%20Developer&descSize=19&descAlignY=76&animation=fadeIn&fontAlign=50" width="100%"/>
  
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
