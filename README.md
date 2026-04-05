@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F953C6&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Java+Full+Stack+Developer;☕+Spring+Boot+%7C+Microservices+Architect;⚛️+React+UI+Craftsman;🔐+JWT+%7C+REST+API+Builder;📐+System+Design+Enthusiast;💼+Open+to+Dream+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F953C6&center=true&vCenter=true&multiline=false&width=750&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+Architect;React+UI+Craftsman+%E2%9A%9B%EF%B8%8F;JWT+%7C+REST+API+Builder;System+Design+Enthusiast;Open+to+Dream+Opportunities+!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -73,14 +73,6 @@ public class Rahul extends FullStackDeveloper {
 <!--                   GITHUB TROPHIES                            -->
 <!-- ============================================================ -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RahulRathod007&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="trophies"/>
-
-</div>
-
 ---
 
 <!-- ============================================================ -->
@@ -122,7 +114,7 @@ public class Rahul extends FullStackDeveloper {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
- 
+
 </div>
 
 ---
@@ -234,6 +226,7 @@ public class Rahul extends FullStackDeveloper {
 🎯  System Design Fundamentals    █████████████░░░░░░░  65%
 🌿  Advanced Spring Boot          █████████████████░░░  88%
 🐳  Docker & Containerization     █████████░░░░░░░░░░░  45%
+☸️  Kubernetes Basics             ██████░░░░░░░░░░░░░░  30%
 ```
 
 </div>
