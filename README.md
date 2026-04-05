@@ -22,11 +22,11 @@
 <!--                     ABOUT ME                                 -->
 <!-- ============================================================ -->
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👋 Hey! I'm **Rahul Shankar Rathod**
+###  Hey! I'm **Rahul Shankar Rathod**
 
 ```java
 public class Rahul extends FullStackDeveloper {
@@ -66,7 +66,7 @@ public class Rahul extends FullStackDeveloper {
 <!--                    TECH STACK                                -->
 <!-- ============================================================ -->
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -194,11 +194,10 @@ public class Rahul extends FullStackDeveloper {
 <div align="center">
 
 ```
-⚙️  Microservices Architecture    ████████████████░░░░  80%
-🎯  System Design Fundamentals    █████████████░░░░░░░  65%
-🌿  Advanced Spring Boot          █████████████████░░░  88%
-🐳  Docker & Containerization     █████████░░░░░░░░░░░  45%
-☸️  Kubernetes Basics             ██████░░░░░░░░░░░░░░  30%
+⚙️  Microservices Architecture    ████████████████   80%
+🎯  System Design Fundamentals    █████████████      65%
+🌿  Advanced Spring Boot          █████████████████  88%
+🐳  Docker & Containerization     █████████          45%
 ```
 
 </div>
