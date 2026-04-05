@@ -2,23 +2,25 @@
 <!--                 TOP WAVE BANNER                              -->
 <!-- ============================================================ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,30:b91d73,60:f953c6,100:b91d73&height=280&section=header&text=Rahul%20Rathod&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=✦%20Java%20Full%20Stack%20Developer%20✦&descSize=24&descAlignY=62&animation=fadeIn&fontAlign=50" width="100%"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,40:0ea5e9,70:38bdf8,100:0369a1&height=155&section=header&text=Rahul%20Rathod&fontSize=50&fontColor=ffffff&fontAlignY=52&desc=Java%20Full%20Stack%20Developer&descSize=19&descAlignY=76&animation=fadeIn&fontAlign=50" width="100%"/>
+ 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F953C6&center=true&vCenter=true&multiline=false&width=750&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+Architect;React+UI+Craftsman+%E2%9A%9B%EF%B8%8F;JWT+%7C+REST+API+Builder;System+Design+Enthusiast;Open+to+Dream+Opportunities+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Architect;React+UI+Craftsman;JWT+%7C+REST+API+Builder;System+Design+Enthusiast;Open+to+Dream+Opportunities+!" alt="Typing SVG" />
 </a>
-
+ 
 <br/><br/>
-
+ 
 <!-- Animated Badges -->
-<img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=👁%20Profile+Views&color=b91d73&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Open_To-Work-f953c6?style=for-the-badge&labelColor=1a0033" alt="open to work"/>
+<img src="https://img.shields.io/github/followers/RahulRathod007?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0c1a2e" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Location-Pune%2C_India-b91d73?style=for-the-badge&labelColor=1a0033" alt="location"/>
-
+<img src="https://img.shields.io/badge/Open_To-Work-38bdf8?style=for-the-badge&labelColor=0c1a2e" alt="open to work"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Pune%2C_India-0ea5e9?style=for-the-badge&labelColor=0c1a2e" alt="location"/>
+ 
 </div>
 
 ---
@@ -64,12 +66,6 @@ public class Rahul extends FullStackDeveloper {
 - ☕ Fun fact: I debug in my dreams 🛌
 
 <br clear="right"/>
-
----
-
-<!-- ============================================================ -->
-<!--                   GITHUB TROPHIES                            -->
-<!-- ============================================================ -->
 
 ---
 
