@@ -1,326 +1,311 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e3a5f,100:0ea5e9&height=280&section=header&text=Rahul%20Rathod&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=67&descSize=22&descColor=94d2ff&stroke=0ea5e9&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a0a,60:001a00,100:003300&height=300&section=header&text=Rahul%20Rathod&fontSize=80&fontColor=00ff41&animation=blinking&fontAlignY=50&desc=%3E_%20Java%20Full%20Stack%20Engineer%20%2F%2F%20Spring%20Boot%20%2F%2F%20React&descAlignY=68&descSize=19&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%3E+Initializing+developer+profile...+%E2%9C%94;%3E+Loading+Java+%2B+Spring+Boot+modules...+%E2%9C%94;%3E+Connecting+React+frontend+engine...+%E2%9C%94;%3E+JWT+Security+layer+active...+%E2%9C%94;%3E+Status%3A+OPEN+TO+WORK+%F0%9F%9F%A2+ONLINE" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Apps+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;React+%7C+REST+APIs+%7C+JWT+Auth+%E2%9A%9B%EF%B8%8F;System+Design+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Code.+Learn.+Build.+Repeat.+%F0%9F%92%A1" alt="Typing SVG" />
+<div align="center">
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-00ff41?style=flat-square&logo=linkedin&logoColor=000000)](https://linkedin.com/in/rahul-rathod1217)
+[![Gmail](https://img.shields.io/badge/%5B_Gmail_%5D-00ff41?style=flat-square&logo=gmail&logoColor=000000)](mailto:rathodrahul3966@gmail.com)
+[![GitHub](https://img.shields.io/badge/%5B_GitHub_%5D-00ff41?style=flat-square&logo=github&logoColor=000000)](https://github.com/RahulRathod007)
+[![Instagram](https://img.shields.io/badge/%5B_Instagram_%5D-00ff41?style=flat-square&logo=instagram&logoColor=000000)](https://instagram.com/_rathod.rahul_1217_)
 
-<a href="https://linkedin.com/in/rahul-rathod1217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rathodrahul3966@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/RahulRathod007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/_rathod.rahul_1217_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/RahulRathod007?style=for-the-badge&color=0ea5e9&labelColor=0d1117&logo=github&label=Followers"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Available-22c55e?style=for-the-badge"/>
+![Profile Views](https://komarev.com/ghpvc/?username=RahulRathod007&label=%3E_profile_views&color=00ff41&style=flat-square)
+![Open To Work](https://img.shields.io/badge/%3E__status-AVAILABLE-00ff41?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `~/whoami`
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+```terminal
+┌──(rahul㉿dev)-[~]
+└─$ cat about.txt
 
-```java
-@Developer
-public class RahulRathod {
+  NAME     : Rahul Shankar Rathod
+  ROLE     : Java Full Stack Developer
+  DEGREE   : B.Tech — Computer Science Engineering
+  LOCATION : Pune, Maharashtra 🇮🇳
+  STATUS   : > Open to Software Developer Roles ✅
 
-  final String name     = "Rahul Shankar Rathod";
-  final String role     = "Java Full Stack Developer";
-  final String degree   = "B.Tech – Computer Science";
-  final String location = "Pune, Maharashtra 🇮🇳";
+  STACK    : Java | Spring Boot | React | MySQL | JWT
+  FOCUS    : Microservices | System Design | Clean Architecture
+  PROJECTS : HMS | Job Tracker | Movie Fusion | EMS
 
-  String[] currentlyLearning = {
-    "Microservices Architecture",
-    "Advanced Spring Boot",
-    "System Design"
-  };
+  CURRENTLY_LEARNING : [
+    "Advanced Microservices Architecture",
+    "Distributed System Design",
+    "Spring Cloud + Docker"
+  ]
 
-  boolean openToWork  = true; // ← Hire me!
-  String  motto       = "Code. Learn. Build. Repeat. 🚀";
-}
+  MOTTO    : "Code. Debug. Ship. Repeat. ☕"
+
+[EOF] — all systems nominal 🟢
 ```
 
-- 🎓 **B.Tech** Computer Science Graduate
-- 🔭 Building **HMS**, **Job Tracker**, **Movie Fusion**
-- 🌱 Mastering **Microservices & System Design**
-- 💼 **Open to Software Developer roles**
-- ⚡ I debug better with **coffee ☕**
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
+## `~/tech-stack --list-all`
 
 <div align="center">
 
-**☕ Backend**
+**`// BACKEND`**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff41&labelColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=00ff41&labelColor=0a0a0a)
+![Spring Security](https://img.shields.io/badge/Spring_Security-000?style=for-the-badge&logo=springsecurity&logoColor=00ff41&labelColor=0a0a0a)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff41&labelColor=0a0a0a)
+![Hibernate](https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate&logoColor=00ff41&labelColor=0a0a0a)
+![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven&logoColor=00ff41&labelColor=0a0a0a)
+![REST API](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=fastapi&logoColor=00ff41&labelColor=0a0a0a)
 
-**⚛️ Frontend**
+**`// FRONTEND`**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0a0a0a)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=0a0a0a)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=0a0a0a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=00ff41&labelColor=0a0a0a)
 
-**🗄️ Database & Tools**
+**`// DATABASE & DEVTOOLS`**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00ff41&labelColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=00ff41&labelColor=0a0a0a)
+![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=swagger&logoColor=00ff41&labelColor=0a0a0a)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=00ff41&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `~/projects --featured`
 
-<!-- ✅ FIX: Using shields.io badges instead of broken pin cards -->
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       > DEPLOYED SYSTEMS DIRECTORY                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-### 🏥 Hospital Management System
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<td width="50%" valign="top">
 
 ```
-✅ Patient & Doctor Management
-✅ JWT Role-Based Authentication  
-✅ REST API with Swagger Docs
-✅ Spring Data JPA + MySQL
+┌─[ PROJECT_01: HMS ]──────────────────┐
+│  🏥 Hospital Management System       │
+│                                      │
+│  TYPE  : Full Stack Web App          │
+│  AUTH  : JWT + Role-Based Access     │
+│  API   : REST + Swagger Docs         │
+│  DB    : Spring Data JPA + MySQL     │
+│                                      │
+│  FEATURES:                           │
+│  ✔ Patient & Doctor Management       │
+│  ✔ Appointment Scheduling            │
+│  ✔ Secure Admin Dashboard            │
+│  ✔ Swagger API Documentation         │
+└──────────────────────────────────────┘
 ```
 
-<a href="https://github.com/RahulRathod007/HMS-BACKEND">
-<img src="https://img.shields.io/badge/⚙️ Backend Code-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/RahulRathod007/HMS-FRONTEND">
-<img src="https://img.shields.io/badge/🖥️ Frontend Code-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Backend](https://img.shields.io/badge/⚙_Backend_Repo-00ff41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007/HMS-BACKEND)
+[![Frontend](https://img.shields.io/badge/🖥_Frontend_Repo-39ff14?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007/HMS-FRONTEND)
 
 </td>
-<td align="center" width="50%">
-
-### 📋 Job Tracker
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<td width="50%" valign="top">
 
 ```
-✅ Application Status Tracking
-✅ Secure Login with JWT Auth
-✅ RESTful API Architecture
-✅ Full Stack React + Spring
+┌─[ PROJECT_02: JOB_TRACKER ]──────────┐
+│  📋 Job Application Tracker          │
+│                                      │
+│  TYPE  : Full Stack Web App          │
+│  AUTH  : JWT Secured Login           │
+│  API   : RESTful Architecture        │
+│  STACK : Spring Boot + React         │
+│                                      │
+│  FEATURES:                           │
+│  ✔ Application Status Pipeline       │
+│  ✔ Secure User Authentication        │
+│  ✔ Add / Update / Delete Jobs        │
+│  ✔ Responsive React UI               │
+└──────────────────────────────────────┘
 ```
 
-<a href="https://github.com/RahulRathod007/Job-Tracker-Backend">
-<img src="https://img.shields.io/badge/⚙️ Backend Code-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/RahulRathod007/Job-Tracker-Frontend">
-<img src="https://img.shields.io/badge/🖥️ Frontend Code-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Backend](https://img.shields.io/badge/⚙_Backend_Repo-00ff41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007/Job-Tracker-Backend)
+[![Frontend](https://img.shields.io/badge/🖥_Frontend_Repo-39ff14?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007/Job-Tracker-Frontend)
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-### 🎬 Movie Fusion
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<td width="50%" valign="top">
 
 ```
-✅ Movie Search & Discovery
-✅ Spring Boot REST Backend
-✅ Responsive React Frontend
-✅ Clean UI/UX Design
+┌─[ PROJECT_03: MOVIE_FUSION ]─────────┐
+│  🎬 Movie Search & Discovery         │
+│                                      │
+│  TYPE  : Full Stack App              │
+│  API   : Spring Boot REST Backend    │
+│  UI    : React + Responsive CSS      │
+│                                      │
+│  FEATURES:                           │
+│  ✔ Movie Search & Discovery          │
+│  ✔ Dynamic REST API Integration      │
+│  ✔ Clean & Minimal UI/UX             │
+│  ✔ Reusable React Components         │
+└──────────────────────────────────────┘
 ```
 
-<a href="https://github.com/RahulRathod007">
-<img src="https://img.shields.io/badge/📁 View Repo-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-00ff41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007)
 
 </td>
-<td align="center" width="50%">
-
-### 👥 Employee Management System
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<td width="50%" valign="top">
 
 ```
-✅ Full CRUD Operations
-✅ Employee Records & Roles
-✅ Clean REST Architecture
-✅ Spring Data JPA
+┌─[ PROJECT_04: EMS ]──────────────────┐
+│  👥 Employee Management System       │
+│                                      │
+│  TYPE  : Full Stack CRUD App         │
+│  ORM   : Spring Data JPA             │
+│  DB    : MySQL                       │
+│  STACK : Spring Boot + React         │
+│                                      │
+│  FEATURES:                           │
+│  ✔ Full CRUD Operations              │
+│  ✔ Employee Records & Roles          │
+│  ✔ Clean REST Architecture           │
+│  ✔ Paginated Data Views              │
+└──────────────────────────────────────┘
 ```
 
-<a href="https://github.com/RahulRathod007">
-<img src="https://img.shields.io/badge/📁 View Repo-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-00ff41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/RahulRathod007)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## `~/github-stats --verbose`
 
-<!-- ✅ FIX: Correct dark bg + explicit colors = renders every time -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulRathod007&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod007&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RahulRathod007&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00ff41&ring_color=00ff41" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod007&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=RahulRathod007&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=888&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=RahulRathod007&theme=matrix&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=555&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `~/skills --proficiency`
 
 <div align="center">
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRathod007&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&custom_title=Rahul%27s%20Contribution%20Graph"/>
+
+| `MODULE` | `LOAD_LEVEL` | `STATUS` |
+|:---|:---|:---:|
+| ☕ **Advanced Spring Boot** | `████████████░░` 90% | 🟢 EXPERT |
+| 🔐 **Spring Security + JWT** | `██████████░░░░` 80% | 🟢 STRONG |
+| ⚛️ **React & Frontend Dev** | `█████████░░░░░` 75% | 🟡 ADVANCED |
+| 🔀 **Microservices Design** | `█████████░░░░░` 75% | 🟡 ADVANCED |
+| 🗄️ **MySQL & Spring JPA** | `█████████░░░░░` 75% | 🟡 ADVANCED |
+| 🏗️ **System Design** | `████████░░░░░░` 65% | 🟠 GROWING |
+| 🐋 **Docker & DevOps** | `██████░░░░░░░░` 50% | 🔵 LEARNING |
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `~/achievements --all`
 
-<!-- ✅ FIX: Snake only shows after you enable Actions in your profile repo -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║          > UNLOCKED ACHIEVEMENTS LOG                 ║
+╠══════════════════════════════════════════════════════╣
+║  🦈  Pull Shark         — GitHub Achievement Earned  ║
+║  🔥  Consistent Dev     — Active since Jun 2023      ║
+║  🛠️  Fullstack Builder  — 4+ end-to-end apps built   ║
+║  🔐  Security Expert    — JWT + RBAC in production   ║
+║  📖  API Architect      — Swagger-documented APIs    ║
+║  🎓  CS Graduate        — B.Tech CSE fundamentals    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `~/activity --graph`
+
+<div align="center">
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRathod007&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=003300&hide_border=true&custom_title=%3E%20Rahul's%20Contribution%20Timeline"/>
+
+</div>
+
+---
+
+## `~/snake --play`
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulRathod007/RahulRathod007/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulRathod007/RahulRathod007/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/RahulRathod007/RahulRathod007/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/RahulRathod007/RahulRathod007/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> **⚙️ To activate:** In your `RahulRathod007` repo → **Actions tab** → click **"I understand my workflows, go ahead and enable them"** → Snake generates daily! 🎉
-
 </div>
 
 ---
 
-## 🧠 Currently Leveling Up
-
-<!-- ✅ FIX: Pure text progress bars — no Unicode block issues, renders perfectly -->
-<div align="center">
-
-<table>
-<tr>
-<th>🎯 Skill</th>
-<th>📊 Progress</th>
-<th>🔥 Level</th>
-</tr>
-<tr>
-<td><b>☕ Advanced Spring Boot</b></td>
-<td><img src="https://img.shields.io/badge/90%25-0ea5e9?style=flat-square&labelColor=0d1117"/>&nbsp;█████████░</td>
-<td>🔥 Expert</td>
-</tr>
-<tr>
-<td><b>⚛️ React & Frontend</b></td>
-<td><img src="https://img.shields.io/badge/75%25-0ea5e9?style=flat-square&labelColor=0d1117"/>&nbsp;███████░░░</td>
-<td>⚡ Advanced</td>
-</tr>
-<tr>
-<td><b>🔀 Microservices</b></td>
-<td><img src="https://img.shields.io/badge/75%25-0ea5e9?style=flat-square&labelColor=0d1117"/>&nbsp;███████░░░</td>
-<td>⚡ Advanced</td>
-</tr>
-<tr>
-<td><b>🏗️ System Design</b></td>
-<td><img src="https://img.shields.io/badge/65%25-0ea5e9?style=flat-square&labelColor=0d1117"/>&nbsp;██████░░░░</td>
-<td>📈 Growing</td>
-</tr>
-<tr>
-<td><b>🔐 Spring Security</b></td>
-<td><img src="https://img.shields.io/badge/80%25-0ea5e9?style=flat-square&labelColor=0d1117"/>&nbsp;████████░░</td>
-<td>💪 Strong</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Achievements
+## `~/connect --handshake`
 
 <div align="center">
 
-| Badge | Achievement |
-|:---:|---|
-| 🦈 | **Pull Shark** — GitHub Achievement Earned |
-| 🔥 | **Consistent Contributor** — Active since Jun 2023 |
-| 🛠️ | **4+ Full Stack Apps** — Built completely end-to-end |
-| 🔐 | **JWT Auth Expert** — Role-based security in real apps |
-| 📖 | **API Documenter** — Swagger-integrated REST APIs |
-| 🎓 | **B.Tech CS Graduate** — Strong CS fundamentals |
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   > Let's build something great together.           │
+│   > I'm one message away. 🟢                        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rahul-rathod1217">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Rathod-00ff41?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=0a0a0a)](https://linkedin.com/in/rahul-rathod1217)
 &nbsp;
-<a href="mailto:rathodrahul3966@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rathodrahul3966-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-rathodrahul3966-00ff41?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0a0a0a)](mailto:rathodrahul3966@gmail.com)
 &nbsp;
-<a href="https://instagram.com/_rathod.rahul_1217_">
-  <img src="https://img.shields.io/badge/Instagram-_rathod.rahul__1217_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-RahulRathod007-00ff41?style=for-the-badge&logo=github&logoColor=000&labelColor=0a0a0a)](https://github.com/RahulRathod007)
 &nbsp;
-<a href="https://github.com/RahulRathod007">
-  <img src="https://img.shields.io/badge/GitHub-RahulRathod007-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-_rathod.rahul__1217_-00ff41?style=for-the-badge&logo=instagram&logoColor=000&labelColor=0a0a0a)](https://instagram.com/_rathod.rahul_1217_)
 
-<br/><br/>
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:020817&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=60&section=footer&text=%3E_+Thanks+for+visiting+%2F%2F+Keep+building+%2F%2F+Stay+curious+%E2%98%95&fontSize=16&fontColor=00ff41&animation=twinkling"/>
 
 </div>
