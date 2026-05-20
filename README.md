@@ -8,8 +8,6 @@
 <!-- Animated Badges -->
 <img src="https://komarev.com/ghpvc/?username=RahulRathod007&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/RahulRathod007?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0c1a2e" alt="followers"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Open_To-Work-38bdf8?style=for-the-badge&labelColor=0c1a2e" alt="open to work"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Pune%2C_India-0ea5e9?style=for-the-badge&labelColor=0c1a2e" alt="location"/>
